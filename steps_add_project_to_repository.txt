@@ -1,0 +1,25 @@
+  1- search gitbash and open
+  
+
+2- cd ~
+3-$ cd Desktop/
+
+4-$ git clone https://github.com/afnanalkhaleel/afnanRepository.git
+(this is address reposatory)
+5-$ cd afnanRepository/
+
+after copy your project to this folder on desktop
+
+6-$ git status
+7-$ git add .
+8-$ git commit -m "nots"
+
+"this project simple for sail and purchase and customer in sqlserver and vb.net"
+
+9- git config --global user.email "you@example.com"
+10- git config --global user.name "Your Name"
+11-$ git push origin master
+
+
+
+
