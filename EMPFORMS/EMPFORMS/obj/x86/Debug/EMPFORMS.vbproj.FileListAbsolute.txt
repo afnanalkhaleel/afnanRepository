@@ -1,0 +1,14 @@
+C:\USERS\AFNAN\DOCUMENTS\VISUAL STUDIO 2015\PROJECTS\EMPFORMS\EMPFORMS\bin\x86\Debug\EMPFORMS.exe.config
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\bin\x86\Debug\EMPFORMS.exe
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\bin\x86\Debug\EMPFORMS.pdb
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\bin\x86\Debug\EMPFORMS.xml
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\x86\Debug\EMPFORMS.vbproj.ResolveComReference.cache
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\x86\Debug\EMPFORMS.Resources.resources
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\x86\Debug\EMPFORMS.vbproj.GenerateResource.Cache
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\x86\Debug\EMPFORMS.exe
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\x86\Debug\EMPFORMS.xml
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\x86\Debug\EMPFORMS.pdb
+C:\Users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\x86\Debug\EMPFORMS.vbprojResolveAssemblyReference.cache
+C:\Users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\x86\Debug\Interop.MDACVer.dll
+C:\Users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\x86\Debug\Interop.LCC11.dll
+C:\Users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\x86\Debug\EMPFORMS.Form1.resources

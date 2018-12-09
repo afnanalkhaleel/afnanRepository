@@ -1,0 +1,11 @@
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\bin\Debug\EMPFORMS.exe.config
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\bin\Debug\EMPFORMS.exe
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\bin\Debug\EMPFORMS.pdb
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\bin\Debug\EMPFORMS.xml
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\Debug\EMPFORMS.vbprojResolveAssemblyReference.cache
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\Debug\EMPFORMS.Form1.resources
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\Debug\EMPFORMS.Resources.resources
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\Debug\EMPFORMS.vbproj.GenerateResource.Cache
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\Debug\EMPFORMS.exe
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\Debug\EMPFORMS.xml
+c:\users\afnan\documents\visual studio 2015\Projects\EMPFORMS\EMPFORMS\obj\Debug\EMPFORMS.pdb
